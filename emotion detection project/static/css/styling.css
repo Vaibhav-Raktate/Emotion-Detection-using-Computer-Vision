@@ -1,0 +1,42 @@
+body
+{
+    background-image: url('backg\ 4.jpg');
+}
+
+.head_design
+{
+    background-color:  #49494931;
+    height: fit-content;
+}
+
+.div_design
+{
+    padding-top: 1%;
+    padding-right: 1%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vh;
+    font-weight: bolder;
+    color: rgb(102, 97, 101);
+    height: initial;
+    
+}
+
+.logo_size
+{
+    width: auto;
+    height: 8vh;
+    padding-left: 10px;
+}
+
+.float_right
+{
+    float: right;
+}
+
+.cam_size
+{
+    width: 58%;
+    height: auto;
+    margin-top: 2vh;
+    border: 10px groove #332d389a;
+}
